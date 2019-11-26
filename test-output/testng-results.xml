@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3731" started-at="2019-11-07T19:54:15Z" finished-at="2019-11-07T19:54:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3731" started-at="2019-11-07T19:54:15Z" finished-at="2019-11-07T19:54:19Z">
+      <class name="com.apitest.testcases.json_manipulation">
+        <test-method status="PASS" signature="postrestTest()[pri:0, instance:com.apitest.testcases.json_manipulation@4b9e13df]" name="postrestTest" duration-ms="3690" started-at="2019-11-07T19:54:15Z" finished-at="2019-11-07T19:54:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postrestTest -->
+      </class> <!-- com.apitest.testcases.json_manipulation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
